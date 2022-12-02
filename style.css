@@ -1,0 +1,9 @@
+nav {
+    background-color: Green;
+}
+
+li {
+    display: inline;
+    position: relative;
+    left: 650px; 
+}
